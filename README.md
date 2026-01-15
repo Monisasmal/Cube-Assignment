@@ -90,10 +90,26 @@ Two radio groups:
 
 ---
 
-🚀 Deployment
+## 🚀 Deployment
 https://monisasmal.github.io/Cube-Assignment/
 
 ---
+
+## Preview
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/8e857691-fc52-49ae-9f4a-8412c776867e" />
+<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/f077509f-a247-484a-9d49-a0fb21f2fd21" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/48874373-7e78-4d84-84c7-e1562189e945" />
+<img width="1348" height="316" alt="image" src="https://github.com/user-attachments/assets/c4d0541e-51c7-456e-88d7-c3fc6d53461c" />
+<img width="1363" height="723" alt="image" src="https://github.com/user-attachments/assets/0bfd90c4-f727-4ae2-85d2-2635d37dab97" />
+<img width="1351" height="408" alt="image" src="https://github.com/user-attachments/assets/4db5b87f-d721-4ad8-8aec-27d856ddda93" />
+
+---
+
+
+
+
+
+
 
 
 
