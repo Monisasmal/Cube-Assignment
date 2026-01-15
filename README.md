@@ -67,7 +67,7 @@ Two radio groups:
 
 🔹 HTML Table
 
-- Table section implemented using proper <table>, <thead>, <tbody> structure
+- Table section implemented using proper structure
 
 ---
 
@@ -104,6 +104,21 @@ https://monisasmal.github.io/Cube-Assignment/
 <img width="1351" height="408" alt="image" src="https://github.com/user-attachments/assets/4db5b87f-d721-4ad8-8aec-27d856ddda93" />
 
 ---
+
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
 
 
 
