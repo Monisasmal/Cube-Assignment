@@ -69,6 +69,32 @@ Two radio groups:
 
 - Table section implemented using proper <table>, <thead>, <tbody> structure
 
+---
+
+⚡ Performance Optimizations
+
+- Optimized CSS (no unnecessary selectors)
+- Minimal JavaScript (event-driven logic)
+- Images structured for easy lazy loading
+- Clean DOM manipulation
+
+---
+
+🌐 Cross-Browser Compatibility
+
+- Tested and works correctly on:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
+
+---
+
+🚀 Deployment
+https://monisasmal.github.io/Cube-Assignment/
+
+---
+
 
 
 
