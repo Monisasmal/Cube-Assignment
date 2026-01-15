@@ -31,18 +31,48 @@ All images used in this project are exported directly from the Figma file, as in
 
 ---
 
-/project-folder
-│
-├── index.html
-│
-├── /assets
-│   └── (Images exported from Figma)
-│
-├── /css
-│   └── style.css
-│
-└── /js
-    └── script.js
+## ✅ Features Implemented
+
+🔹 Pixel-Perfect UI
+
+- Design closely matches the Figma layout
+- Fonts, spacing, alignment, and colors follow the design specs
+
+🔹 Fully Responsive
+
+- Desktop, tablet, and mobile views supported
+- Header converts to a hamburger menu on smaller screens
+
+🔹 Product Gallery (Left Section)
+
+Image slider with:
+
+- Left / right arrows
+- Clickable dots
+
+🔹 Product Options (Right Section)
+
+Two radio groups:
+
+- Fragrance (3 options)
+- Purchase Type (3 options)
+- Single & Double Subscription
+- Works like an accordion
+
+
+🔹 Animated Statistics Section
+
+- Percentage values (e.g., 84%, 78%)
+- Numbers count up from 0 when the section enters the viewport
+
+🔹 HTML Table
+
+- Table section implemented using proper <table>, <thead>, <tbody> structure
+
+
+
+
+
 
 
 
