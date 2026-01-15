@@ -14,6 +14,38 @@ The goal of this assignment is to demonstrate:
 
 ---
 
+## 🎨 Figma Design
+
+Design Link:
+https://www.figma.com/design/1AL9FkPV5ZoD0lC2TKSLQH/HTML-Developer-Assignment-New
+
+All images used in this project are exported directly from the Figma file, as instructed.
+
+----
+
+🛠️ Technologies Used
+
+- HTML5 – Semantic and accessible markup
+- CSS3 – Layout, responsiveness, animations
+- JavaScript (Vanilla) – UI interactions and logic
+
+---
+
+/project-folder
+│
+├── index.html
+│
+├── /assets
+│   └── (Images exported from Figma)
+│
+├── /css
+│   └── style.css
+│
+└── /js
+    └── script.js
+
+
+
 
 
 
